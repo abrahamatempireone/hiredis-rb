@@ -1,0 +1,3 @@
+[submodule "vendor/hiredis"]
+	path = vendor/hiredis
+	url = ../../koenvandesande/hiredis
